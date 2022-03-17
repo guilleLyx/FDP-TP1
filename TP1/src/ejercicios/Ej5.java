@@ -14,12 +14,12 @@ lo cargado en num1 quede en num2, y viceversa) y volvé a mostrarlas actualizadas
 public class Ej5 {
 
 	private static Scanner input = new Scanner(System.in);
-	
+
 	public static void main(String[] args) {
 		int num1;
 		int num2;
 		int aux;
-		
+
 		System.out.println("Ingrese un número entero");
 		num1 = Integer.parseInt(input.nextLine());
 		System.out.println("Ingrese un número entero");
@@ -32,7 +32,7 @@ public class Ej5 {
 		System.out.println("");
 		System.out.println("num1 = " + num1);
 		System.out.println("num2 = " + num2);
-		
+
 		input.close();
 	}
 
