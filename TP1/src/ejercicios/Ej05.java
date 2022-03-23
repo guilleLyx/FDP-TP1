@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-/* TP[1] Ejercicio 1
+/* TP[1] Ejercicio 5
 * Grupo Nro.: -
 * Integrantes: Guille
 * Enunciado:
@@ -11,7 +11,7 @@ num2. Una vez cargadas, mostrar ambas variables por pantalla, intercambiá sus va
 lo cargado en num1 quede en num2, y viceversa) y volvé a mostrarlas actualizadas. 
 */
 
-public class Ej5 {
+public class Ej05 {
 
 	private static Scanner input = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-/* TP[1] Ejercicio 1
+/* TP[1] Ejercicio 8
 * Grupo Nro.: -
 * Integrantes: Guille
 * Enunciado:
@@ -10,7 +10,7 @@ import java.util.Scanner;
 resultados para las 4 operaciones matemáticas básicas con los números ingresados.
 */
 
-public class Ej8 {
+public class Ej08 {
 
 	private static Scanner input = new Scanner(System.in);
 

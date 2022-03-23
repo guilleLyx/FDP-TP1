@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-/* TP[1] Ejercicio 1
+/* TP[1] Ejercicio 2
 * Grupo Nro.: -
 * Integrantes: Guille
 * Enunciado:
@@ -10,7 +10,7 @@ import java.util.Scanner;
 para cierto alumno de nivel secundario. Debe calcularse y mostrarse la nota promedio.
 */
 
-public class Ej2 {
+public class Ej02 {
 
 	private static Scanner input = new Scanner(System.in);
 

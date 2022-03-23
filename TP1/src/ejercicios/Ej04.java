@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-/* TP[1] Ejercicio 1
+/* TP[1] Ejercicio 4
 * Grupo Nro.: -
 * Integrantes: Guille
 * Enunciado:
@@ -12,7 +12,7 @@ semanal, sabiendo que trabaja todos los días hábiles y la mitad de las horas del
 sábados. (Todas las horas valen lo mismo.)
 */
 
-public class Ej4 {
+public class Ej04 {
 
 	private static Scanner input = new Scanner(System.in);
 	final static double DIAS_TRABAJADOS_X_SEMANA = 5.5;

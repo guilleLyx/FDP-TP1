@@ -10,7 +10,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class Ej1 {
+public class Ej01 {
 
 	private static Scanner input = new Scanner(System.in); // Activo el proceso del Scanner, debe ir antes del main
 

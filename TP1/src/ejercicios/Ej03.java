@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-/* TP[1] Ejercicio 1
+/* TP[1] Ejercicio 3
 * Grupo Nro.: -
 * Integrantes: Guille
 * Enunciado:
@@ -12,7 +12,7 @@ ingresado:
 *b. Dividido por 2.
 */
 
-public class Ej3 {
+public class Ej03 {
 
 	private static Scanner input = new Scanner(System.in);
 
